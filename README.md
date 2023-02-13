@@ -2,7 +2,7 @@
 
 Nombre: Adrian Ismael Paez Tobar
 
-#OBJETIVOS
+OBJETIVOS
 
 **OBJETIVO GENERAL**
 ***
